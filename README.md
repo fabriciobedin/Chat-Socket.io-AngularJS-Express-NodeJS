@@ -5,3 +5,6 @@ Chat com Socket.io e AngularJS comunicando em tempo real e com cache das mensage
   <img src="https://github.com/fabriciobedin/Chat-Socket.io-AngularJS-Express-NodeJS/blob/master/img/01.png" height="450" al />
   <img src="https://github.com/fabriciobedin/Chat-Socket.io-AngularJS-Express-NodeJS/blob/master/img/02.png" height="450" al />
 </div>
+
+## Deixei a aplicação rodando nesse servidor pra quem quiser testar :)
+http://testechat-com-br.umbler.net/
